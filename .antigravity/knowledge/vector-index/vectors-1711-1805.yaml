@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Guyana
+  iso: GY
+  block: 19
+  range: [1711,1805]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "GY-V-1711"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1712"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1713"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1714"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1715"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1716"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1717"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1718"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1719"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1720"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1721"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1722"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1723"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1724"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1725"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1726"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1727"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1728"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1729"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1730"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1731"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1732"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1733"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1734"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1735"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1736"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1737"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1738"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1739"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1740"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1741"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1742"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1743"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1744"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1745"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1746"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1747"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1748"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1749"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1750"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1751"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1752"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1753"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1754"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1755"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1756"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1757"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1758"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1759"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1760"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1761"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1762"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1763"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1764"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1765"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1766"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1767"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1768"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1769"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1770"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1771"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1772"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1773"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1774"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1775"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1776"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1777"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1778"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1779"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1780"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1781"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1782"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1783"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1784"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1785"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1786"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1787"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1788"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1789"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1790"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1791"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1792"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1793"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1794"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1795"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1796"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1797"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1798"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1799"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1800"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1801"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1802"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1803"
+      anchor: "Oil boom governance and environmental risk"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1804"
+      anchor: "Colonial plantation and indenture legacy"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GY-V-1805"
+      anchor: "Essequibo border dispute context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

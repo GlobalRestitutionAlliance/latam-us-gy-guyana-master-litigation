@@ -1,0 +1,27 @@
+{
+  "url": "https://guides.loc.gov/",
+  "final_url": "https://guides.loc.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 28105,
+  "sha256": "60b64747710f11ce83a250a8eb5b2fe75af14e8c4a5ed4c2fcf46a72d0ebd335",
+  "captured_at": "2026-11-21T18:28:44.649329Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Guyana",
+  "iso": "GY",
+  "title": "Library of Congress - Research Guides / Country Studies",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:31:24 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-backend-server": "libguides-us-1.springyaws.com",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "upgrade-insecure-requests",
+    "strict-transport-security": "max-age=31536000; preload",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a5e1c56a9cfb1350-MIA"
+  }
+}
